@@ -7,7 +7,7 @@ const router = app.router
 
 router.get('/', (req, res) => {
 
-  res.send('Hello rate limiter')
+  res.send('Hello rate limiter');
 
 })
 
